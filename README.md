@@ -25,6 +25,6 @@ Luego de la síntesis de información, se continuó con la búsquedas de anteced
 
 1. Búsqueda de antecedentes 
 2. Primeros bocetos (individual)
-3. Críticas constructiva 
+3. Críticas constructiva (grupal)
 4. Segundos bocetos incorporando las críticas (individual)
 5. Determinación de boceto final incorporando las distints ideas diagramadas (grupal)
