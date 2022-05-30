@@ -1,0 +1,18 @@
+
+:root {
+    --bs-font-sans-serif: 'Open Sans', sans-serif;
+}
+
+:hover {
+    transition: all ease 0.5s;
+}
+
+h1{
+    font-family: 'Noticia Text', serif;
+    font-weight: 400;
+    font-size: calc(2rem + 2vw);
+}
+
+.card, .card-img-top {
+    border-radius: 0 0;
+}
